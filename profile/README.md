@@ -12,12 +12,14 @@ Our work spans offensive security tools, embedded applications, and custom hardw
 - Flipper Zero companion apps for C5 boards
 
 ## Notable projects
-- [**projectZero**](https://github.com/C5Lab/projectZero) — ESP32-C5 CLI security suite (136 ⭐): Evil Twin, deauther, WPA3-SAE Overflow, Flipper Zero integration, captive portal
-- [**M5MonsterC5-CardputerADV**](https://github.com/C5Lab/M5MonsterC5-CardputerADV) — M5Stack Cardputer advanced firmware (119 ⭐)
-- [**M5MonsterC5-Tab5**](https://github.com/C5Lab/M5MonsterC5-Tab5) — M5Stack Tab5 port (37 ⭐)
+- [**projectZero**](https://github.com/C5Lab/projectZero) — ESP32-C5 CLI security suite: Evil Twin, deauther, WPA3-SAE Overflow, Flipper Zero integration, captive portal ![GitHub stars](https://img.shields.io/github/stars/C5Lab/projectZero?style=social)
+- [**M5MonsterC5-CardputerADV**](https://github.com/C5Lab/M5MonsterC5-CardputerADV) — M5Stack Cardputer advanced firmware ![GitHub stars](https://img.shields.io/github/stars/C5Lab/M5MonsterC5-CardputerADV?style=social)
+- [**M5MonsterC5-Tab5**](https://github.com/C5Lab/M5MonsterC5-Tab5) — M5Stack Tab5 port ![GitHub stars](https://img.shields.io/github/stars/C5Lab/M5MonsterC5-Tab5?style=social)
 
 ## Links
 - **Support our work:** [ko-fi.com/lab5_0000](https://ko-fi.com/lab5_0000)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H21PX2FJ)
 - **Shop:** [tindie.com/products/lab](https://www.tindie.com/products/lab/)
 - **GitHub:** [github.com/C5Lab](https://github.com/C5Lab)
 - **Discord:** [discord.gg/57wmJzzR8C](https://discord.gg/57wmJzzR8C)
