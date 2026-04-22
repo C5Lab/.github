@@ -20,6 +20,6 @@ Our work spans offensive security tools, embedded applications, and custom hardw
 - **Support our work:** [ko-fi.com/lab5_0000](https://ko-fi.com/lab5_0000)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H21PX2FJ)
-- **Shop:** [tindie.com/products/lab](https://www.tindie.com/products/lab/)
+- **Shop:** [https://lab5-11.myshopify.com/](https://lab5-11.myshopify.com/)
 - **GitHub:** [github.com/C5Lab](https://github.com/C5Lab)
 - **Discord:** [discord.gg/57wmJzzR8C](https://discord.gg/57wmJzzR8C)
